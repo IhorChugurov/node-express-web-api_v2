@@ -1,0 +1,32 @@
+{
+  "name": "node_rest_api_v2",
+  "version": "1.0.0",
+  "description": "Node.js Restful CRUD API with Node.js, Express and MongoDB V2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IhorChugurov/node-express-web-api_v2.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "rest",
+    "api"
+  ],
+  "type": "module",
+  "author": "igorchugurov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IhorChugurov/node-express-web-api_v2/issues"
+  },
+  "homepage": "https://github.com/IhorChugurov/node-express-web-api_v2#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0"
+  }
+}
